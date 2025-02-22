@@ -1,0 +1,603 @@
+
+ epoch is  0
+epoch is 1 train loss is: 2.0280268667908885 train correct is: 28.136988491048594
+epoch is 1 test loss is: 1.6254564214356337 test correct is: 38.686708860759495
+ epoch is  1
+epoch is 2 train loss is: 1.484351977667845 train correct is: 45.37843670076726
+epoch is 2 test loss is: 1.3975174147871476 test correct is: 48.32871835443038
+ epoch is  2
+epoch is 3 train loss is: 1.2519320385230472 train correct is: 54.47170716112532
+epoch is 3 test loss is: 1.1806997275805171 test correct is: 56.546677215189874
+ epoch is  3
+epoch is 4 train loss is: 1.0534459221393555 train correct is: 62.06841432225064
+epoch is 4 test loss is: 1.0627490391459646 test correct is: 61.51107594936709
+ epoch is  4
+epoch is 5 train loss is: 0.9200536729124806 train correct is: 67.14154411764706
+epoch is 5 test loss is: 1.0844144334521475 test correct is: 61.53085443037975
+ epoch is  5
+epoch is 6 train loss is: 0.8278567751350305 train correct is: 70.5163043478261
+epoch is 6 test loss is: 0.8902914422222331 test correct is: 67.53362341772151
+ epoch is  6
+epoch is 7 train loss is: 0.772667464164212 train correct is: 72.38251278772378
+epoch is 7 test loss is: 0.8851891280729559 test correct is: 67.5929588607595
+ epoch is  7
+epoch is 8 train loss is: 0.7270673928053483 train correct is: 74.07888427109974
+epoch is 8 test loss is: 0.8307535284304921 test correct is: 69.38291139240506
+ epoch is  8
+epoch is 9 train loss is: 0.6893303321907892 train correct is: 75.45156649616368
+epoch is 9 test loss is: 0.9066345652070227 test correct is: 67.31606012658227
+ epoch is  9
+epoch is 10 train loss is: 0.6689010908841477 train correct is: 76.19085677749361
+epoch is 10 test loss is: 0.8021631338928319 test correct is: 71.14319620253164
+ epoch is  10
+epoch is 11 train loss is: 0.6016475988166107 train correct is: 78.73041879795396
+epoch is 11 test loss is: 0.7356833042223242 test correct is: 73.62539556962025
+ epoch is  11
+epoch is 12 train loss is: 0.5746501946388303 train correct is: 79.66951726342711
+epoch is 12 test loss is: 0.7929897559688815 test correct is: 71.18275316455696
+ epoch is  12
+epoch is 13 train loss is: 0.5542433673463514 train correct is: 80.49872122762149
+epoch is 13 test loss is: 0.713756714912155 test correct is: 75.01977848101266
+ epoch is  13
+epoch is 14 train loss is: 0.5352209889522904 train correct is: 81.10014386189258
+epoch is 14 test loss is: 0.7535986691901956 test correct is: 73.54628164556962
+ epoch is  14
+epoch is 15 train loss is: 0.5189231142516026 train correct is: 81.69557225063939
+epoch is 15 test loss is: 0.746337461509282 test correct is: 73.62539556962025
+ epoch is  15
+epoch is 16 train loss is: 0.49664918701057237 train correct is: 82.46882992327366
+epoch is 16 test loss is: 0.6453767916824245 test correct is: 76.94818037974683
+ epoch is  16
+epoch is 17 train loss is: 0.48514905602425873 train correct is: 83.06825447570333
+epoch is 17 test loss is: 0.6166312145658687 test correct is: 77.99643987341773
+ epoch is  17
+epoch is 18 train loss is: 0.470082180274417 train correct is: 83.37595907928389
+epoch is 18 test loss is: 0.7720763198559797 test correct is: 73.07159810126582
+ epoch is  18
+epoch is 19 train loss is: 0.4650672227906449 train correct is: 83.6556905370844
+epoch is 19 test loss is: 0.7791559077516387 test correct is: 72.98259493670886
+ epoch is  19
+epoch is 20 train loss is: 0.457317335945566 train correct is: 83.98137787723785
+epoch is 20 test loss is: 0.810116911236244 test correct is: 72.59691455696202
+ epoch is  20
+epoch is 21 train loss is: 0.4179045779016012 train correct is: 85.36205242966751
+epoch is 21 test loss is: 0.6307291230068931 test correct is: 77.67998417721519
+ epoch is  21
+epoch is 22 train loss is: 0.4089562107077645 train correct is: 85.7456841432225
+epoch is 22 test loss is: 0.6112060594030574 test correct is: 78.25356012658227
+ epoch is  22
+epoch is 23 train loss is: 0.4025505056695255 train correct is: 85.98745204603581
+epoch is 23 test loss is: 0.6149418344603309 test correct is: 77.99643987341773
+ epoch is  23
+epoch is 24 train loss is: 0.40062112839478053 train correct is: 85.99144820971867
+epoch is 24 test loss is: 0.6491606385458873 test correct is: 77.79865506329114
+ epoch is  24
+epoch is 25 train loss is: 0.3949292244203865 train correct is: 86.10733695652173
+epoch is 25 test loss is: 0.5769893548722509 test correct is: 79.67761075949367
+ epoch is  25
+epoch is 26 train loss is: 0.38448658593170476 train correct is: 86.57488810741688
+epoch is 26 test loss is: 0.5628433870741084 test correct is: 79.71716772151899
+ epoch is  26
+epoch is 27 train loss is: 0.3848679004727727 train correct is: 86.40105498721228
+epoch is 27 test loss is: 0.7712664183559297 test correct is: 74.84177215189874
+ epoch is  27
+epoch is 28 train loss is: 0.38173439321310626 train correct is: 86.74872122762149
+epoch is 28 test loss is: 0.5626964687923842 test correct is: 80.00395569620254
+ epoch is  28
+epoch is 29 train loss is: 0.37584437296518586 train correct is: 86.92055626598466
+epoch is 29 test loss is: 0.5787156073352958 test correct is: 79.17325949367088
+ epoch is  29
+epoch is 30 train loss is: 0.3670160114917609 train correct is: 87.30218989769821
+epoch is 30 test loss is: 0.6343996807744231 test correct is: 77.79865506329114
+ epoch is  30
+epoch is 31 train loss is: 0.34448092337459557 train correct is: 87.97554347826087
+epoch is 31 test loss is: 0.6675459345967709 test correct is: 77.54153481012658
+ epoch is  31
+epoch is 32 train loss is: 0.3367393835807395 train correct is: 88.27325767263427
+epoch is 32 test loss is: 0.5300276103087619 test correct is: 81.78401898734177
+ epoch is  32
+epoch is 33 train loss is: 0.34043168427084414 train correct is: 88.08144181585678
+epoch is 33 test loss is: 0.5952126893061626 test correct is: 79.67761075949367
+ epoch is  33
+epoch is 34 train loss is: 0.33464468043783435 train correct is: 88.31721547314578
+epoch is 34 test loss is: 0.5799854220940343 test correct is: 80.26107594936708
+ epoch is  34
+epoch is 35 train loss is: 0.33269463750102635 train correct is: 88.23529411764706
+epoch is 35 test loss is: 0.6527113705119 test correct is: 77.55142405063292
+ epoch is  35
+epoch is 36 train loss is: 0.3319967102516643 train correct is: 88.27925191815856
+epoch is 36 test loss is: 0.5611395883032039 test correct is: 80.22151898734177
+ epoch is  36
+epoch is 37 train loss is: 0.3230734700360871 train correct is: 88.80474744245524
+epoch is 37 test loss is: 0.5828300641873215 test correct is: 79.13370253164557
+ epoch is  37
+epoch is 38 train loss is: 0.3271248707990817 train correct is: 88.54299872122762
+epoch is 38 test loss is: 0.5169730243992202 test correct is: 81.9323575949367
+ epoch is  38
+epoch is 39 train loss is: 0.3235755761337402 train correct is: 88.67886828644501
+epoch is 39 test loss is: 0.608163325045305 test correct is: 77.99643987341773
+ epoch is  39
+epoch is 40 train loss is: 0.31743492193691564 train correct is: 88.90265345268543
+epoch is 40 test loss is: 0.6348882669323608 test correct is: 78.89636075949367
+ epoch is  40
+epoch is 41 train loss is: 0.2915085159299319 train correct is: 89.82576726342711
+epoch is 41 test loss is: 0.554562011757229 test correct is: 81.05221518987342
+ epoch is  41
+epoch is 42 train loss is: 0.29321199055294245 train correct is: 89.82576726342711
+epoch is 42 test loss is: 0.5803949216592915 test correct is: 80.15229430379746
+ epoch is  42
+epoch is 43 train loss is: 0.289966182902341 train correct is: 89.76382672634271
+epoch is 43 test loss is: 0.6538054397494732 test correct is: 78.0557753164557
+ epoch is  43
+epoch is 44 train loss is: 0.2967558722666767 train correct is: 89.5220588235294
+epoch is 44 test loss is: 0.5707363375002825 test correct is: 80.5676424050633
+ epoch is  44
+epoch is 45 train loss is: 0.2870490485445008 train correct is: 89.9616368286445
+epoch is 45 test loss is: 0.5889538357718082 test correct is: 79.71716772151899
+ epoch is  45
+epoch is 46 train loss is: 0.2907699307479212 train correct is: 89.97961956521739
+epoch is 46 test loss is: 0.4748286285166499 test correct is: 82.99050632911393
+ epoch is  46
+epoch is 47 train loss is: 0.2863157631071937 train correct is: 89.95564258312021
+epoch is 47 test loss is: 0.516344498795799 test correct is: 81.16099683544304
+ epoch is  47
+epoch is 48 train loss is: 0.2797832571332107 train correct is: 90.13347186700767
+epoch is 48 test loss is: 0.6061119947441017 test correct is: 79.50949367088607
+ epoch is  48
+epoch is 49 train loss is: 0.2768745928469216 train correct is: 90.38722826086956
+epoch is 49 test loss is: 0.5361423590986789 test correct is: 81.67523734177215
+ epoch is  49
+epoch is 50 train loss is: 0.2803950774509584 train correct is: 90.29331841432226
+epoch is 50 test loss is: 0.6108985887015168 test correct is: 79.43037974683544
+ epoch is  50
+epoch is 51 train loss is: 0.25530076800557355 train correct is: 91.00863171355499
+epoch is 51 test loss is: 0.5321806884264644 test correct is: 82.27848101265823
+ epoch is  51
+epoch is 52 train loss is: 0.24970361843819508 train correct is: 91.27038043478261
+epoch is 52 test loss is: 0.6023762315700326 test correct is: 79.9248417721519
+ epoch is  52
+epoch is 53 train loss is: 0.2590441932649259 train correct is: 91.03660485933504
+epoch is 53 test loss is: 0.45682241352675834 test correct is: 83.85087025316456
+ epoch is  53
+epoch is 54 train loss is: 0.2501910582680227 train correct is: 91.3503037084399
+epoch is 54 test loss is: 0.5629976660579066 test correct is: 80.91376582278481
+ epoch is  54
+epoch is 55 train loss is: 0.2569925974854423 train correct is: 90.9287084398977
+epoch is 55 test loss is: 0.6783161233120327 test correct is: 78.14477848101266
+ epoch is  55
+epoch is 56 train loss is: 0.2560408910179077 train correct is: 91.15249360613811
+epoch is 56 test loss is: 0.4969627946803841 test correct is: 82.5751582278481
+ epoch is  56
+epoch is 57 train loss is: 0.24919750076501876 train correct is: 91.37627877237851
+epoch is 57 test loss is: 0.5088742068862613 test correct is: 82.25870253164557
+ epoch is  57
+epoch is 58 train loss is: 0.24952707963678844 train correct is: 91.2763746803069
+epoch is 58 test loss is: 0.5027884172299241 test correct is: 82.20925632911393
+ epoch is  58
+epoch is 59 train loss is: 0.24858778652251529 train correct is: 91.24040920716112
+epoch is 59 test loss is: 0.5203721626084062 test correct is: 81.87302215189874
+ epoch is  59
+epoch is 60 train loss is: 0.24414089855635562 train correct is: 91.40225383631713
+epoch is 60 test loss is: 0.4924521449057362 test correct is: 82.99050632911393
+ epoch is  60
+epoch is 61 train loss is: 0.2242495849385591 train correct is: 92.15752877237851
+epoch is 61 test loss is: 0.4866069191713122 test correct is: 83.26740506329114
+ epoch is  61
+epoch is 62 train loss is: 0.22020699049505738 train correct is: 92.40329283887468
+epoch is 62 test loss is: 0.49751161840520325 test correct is: 82.34770569620254
+ epoch is  62
+epoch is 63 train loss is: 0.22479093989447865 train correct is: 92.04363810741688
+epoch is 63 test loss is: 0.5766838410798507 test correct is: 80.85443037974683
+ epoch is  63
+epoch is 64 train loss is: 0.22199216873749442 train correct is: 92.26542519181585
+epoch is 64 test loss is: 0.4972596238544093 test correct is: 82.96083860759494
+ epoch is  64
+epoch is 65 train loss is: 0.22433738113211854 train correct is: 92.06162084398977
+epoch is 65 test loss is: 0.45321706019907815 test correct is: 84.29588607594937
+ epoch is  65
+epoch is 66 train loss is: 0.22675840857693608 train correct is: 92.05562659846548
+epoch is 66 test loss is: 0.45688896480051777 test correct is: 83.74208860759494
+ epoch is  66
+epoch is 67 train loss is: 0.2212752432698179 train correct is: 92.32336956521739
+epoch is 67 test loss is: 0.5992865583658973 test correct is: 79.7863924050633
+ epoch is  67
+epoch is 68 train loss is: 0.22663355912165264 train correct is: 92.07960358056266
+epoch is 68 test loss is: 0.5401997901970828 test correct is: 81.23022151898734
+ epoch is  68
+epoch is 69 train loss is: 0.2205718543637744 train correct is: 92.23745204603581
+epoch is 69 test loss is: 0.8049982319338412 test correct is: 73.82318037974683
+ epoch is  69
+epoch is 70 train loss is: 0.21574288328437854 train correct is: 92.53716432225065
+epoch is 70 test loss is: 0.5392242990717103 test correct is: 81.64556962025317
+ epoch is  70
+epoch is 71 train loss is: 0.19512040131842084 train correct is: 93.204523657289
+epoch is 71 test loss is: 0.6350637911877866 test correct is: 79.35126582278481
+ epoch is  71
+epoch is 72 train loss is: 0.19860436908348136 train correct is: 92.93078644501279
+epoch is 72 test loss is: 0.47758710308919977 test correct is: 83.82120253164557
+ epoch is  72
+epoch is 73 train loss is: 0.19467248870512407 train correct is: 93.25447570332481
+epoch is 73 test loss is: 0.4999986174928991 test correct is: 83.2179588607595
+ epoch is  73
+epoch is 74 train loss is: 0.1986282931645508 train correct is: 93.09063299232737
+epoch is 74 test loss is: 0.4685180197717457 test correct is: 83.8310917721519
+ epoch is  74
+epoch is 75 train loss is: 0.19610469470091182 train correct is: 93.13059462915601
+epoch is 75 test loss is: 0.5083212871340257 test correct is: 82.27848101265823
+ epoch is  75
+epoch is 76 train loss is: 0.1948840463595927 train correct is: 93.18853900255755
+epoch is 76 test loss is: 0.5617208102647262 test correct is: 81.30933544303798
+ epoch is  76
+epoch is 77 train loss is: 0.1986416042270258 train correct is: 93.10461956521739
+epoch is 77 test loss is: 0.5651942868775959 test correct is: 80.88409810126582
+ epoch is  77
+epoch is 78 train loss is: 0.1964252175348799 train correct is: 93.12060421994885
+epoch is 78 test loss is: 0.5134938602111762 test correct is: 82.9806170886076
+ epoch is  78
+epoch is 79 train loss is: 0.20158760630718583 train correct is: 92.95875959079284
+epoch is 79 test loss is: 0.5453119465633284 test correct is: 81.84335443037975
+ epoch is  79
+epoch is 80 train loss is: 0.20590853793999117 train correct is: 92.80290920716112
+epoch is 80 test loss is: 0.45064813285311567 test correct is: 84.42444620253164
+ epoch is  80
+epoch is 81 train loss is: 0.17120454677611666 train correct is: 94.06769501278772
+epoch is 81 test loss is: 0.4882286831830876 test correct is: 84.23655063291139
+ epoch is  81
+epoch is 82 train loss is: 0.1659120477526389 train correct is: 94.31545716112532
+epoch is 82 test loss is: 0.5008026549144636 test correct is: 83.46518987341773
+ epoch is  82
+epoch is 83 train loss is: 0.16968961393513032 train correct is: 94.03372762148338
+epoch is 83 test loss is: 0.5593850290449925 test correct is: 81.7246835443038
+ epoch is  83
+epoch is 84 train loss is: 0.16997305327631018 train correct is: 94.10565856777494
+epoch is 84 test loss is: 0.590135859891395 test correct is: 80.98299050632912
+ epoch is  84
+epoch is 85 train loss is: 0.17707631630284706 train correct is: 93.84390984654732
+epoch is 85 test loss is: 0.46421998814691473 test correct is: 84.19699367088607
+ epoch is  85
+epoch is 86 train loss is: 0.17931102414417754 train correct is: 93.69605179028133
+epoch is 86 test loss is: 0.5199450983465472 test correct is: 82.77294303797468
+ epoch is  86
+epoch is 87 train loss is: 0.17366566983482723 train correct is: 94.04971227621483
+epoch is 87 test loss is: 0.5054908098440759 test correct is: 83.23773734177215
+ epoch is  87
+epoch is 88 train loss is: 0.16972171445674908 train correct is: 94.08967391304348
+epoch is 88 test loss is: 0.5207646485370926 test correct is: 82.51582278481013
+ epoch is  88
+epoch is 89 train loss is: 0.17560446536754404 train correct is: 93.83991368286445
+epoch is 89 test loss is: 0.4554059797827202 test correct is: 84.34533227848101
+ epoch is  89
+epoch is 90 train loss is: 0.17247043529053782 train correct is: 93.89585997442455
+epoch is 90 test loss is: 0.521952870667358 test correct is: 82.85205696202532
+ epoch is  90
+epoch is 91 train loss is: 0.15326895833472767 train correct is: 94.66312340153452
+epoch is 91 test loss is: 0.46733540825875874 test correct is: 84.21677215189874
+ epoch is  91
+epoch is 92 train loss is: 0.14734738155284807 train correct is: 94.89290281329923
+epoch is 92 test loss is: 0.5054414344927932 test correct is: 83.95965189873418
+ epoch is  92
+epoch is 93 train loss is: 0.1509068029196671 train correct is: 94.71507352941177
+epoch is 93 test loss is: 0.48067727668470217 test correct is: 84.29588607594937
+ epoch is  93
+epoch is 94 train loss is: 0.14703443595934707 train correct is: 94.81297953964194
+epoch is 94 test loss is: 0.4793522845529303 test correct is: 84.99802215189874
+ epoch is  94
+epoch is 95 train loss is: 0.1526485144558465 train correct is: 94.63115409207161
+epoch is 95 test loss is: 0.5280674077287505 test correct is: 83.33662974683544
+ epoch is  95
+epoch is 96 train loss is: 0.15736852364276377 train correct is: 94.51326726342711
+epoch is 96 test loss is: 0.4909703585354588 test correct is: 83.58386075949367
+ epoch is  96
+epoch is 97 train loss is: 0.15854677433133735 train correct is: 94.51526534526855
+epoch is 97 test loss is: 0.4743750550418715 test correct is: 84.64200949367088
+ epoch is  97
+epoch is 98 train loss is: 0.1535839525806477 train correct is: 94.62316176470588
+epoch is 98 test loss is: 0.46322990680419945 test correct is: 84.58267405063292
+ epoch is  98
+epoch is 99 train loss is: 0.15272866014172048 train correct is: 94.65912723785166
+epoch is 99 test loss is: 0.47470454706610005 test correct is: 84.29588607594937
+ epoch is  99
+epoch is 100 train loss is: 0.1593300642926827 train correct is: 94.43334398976982
+epoch is 100 test loss is: 0.6039802973553585 test correct is: 80.9434335443038
+ epoch is  100
+epoch is 101 train loss is: 0.1331173385996038 train correct is: 95.28252877237851
+epoch is 101 test loss is: 0.4941059576371048 test correct is: 83.98931962025317
+ epoch is  101
+epoch is 102 train loss is: 0.12896465864556525 train correct is: 95.52629475703324
+epoch is 102 test loss is: 0.4912688996454206 test correct is: 83.9992088607595
+ epoch is  102
+epoch is 103 train loss is: 0.13697899502637745 train correct is: 95.22258631713555
+epoch is 103 test loss is: 0.4760508006320724 test correct is: 84.1376582278481
+ epoch is  103
+epoch is 104 train loss is: 0.12842666569268307 train correct is: 95.53428708439898
+epoch is 104 test loss is: 0.4467725939577139 test correct is: 85.15625
+ epoch is  104
+epoch is 105 train loss is: 0.1327578985153714 train correct is: 95.28053069053709
+epoch is 105 test loss is: 0.48132006541083133 test correct is: 84.2068829113924
+ epoch is  105
+epoch is 106 train loss is: 0.1451654727749355 train correct is: 94.93885869565217
+epoch is 106 test loss is: 0.48050054415023025 test correct is: 84.63212025316456
+ epoch is  106
+epoch is 107 train loss is: 0.1322174827899317 train correct is: 95.36644820971867
+epoch is 107 test loss is: 0.5038907968828196 test correct is: 83.79153481012658
+ epoch is  107
+epoch is 108 train loss is: 0.13697468570393065 train correct is: 95.28053069053709
+epoch is 108 test loss is: 0.46010005015502625 test correct is: 85.30458860759494
+ epoch is  108
+epoch is 109 train loss is: 0.13571341544427834 train correct is: 95.1826246803069
+epoch is 109 test loss is: 0.496191223022304 test correct is: 83.6629746835443
+ epoch is  109
+epoch is 110 train loss is: 0.138150253459392 train correct is: 95.16264386189258
+epoch is 110 test loss is: 0.523796381735349 test correct is: 83.15862341772151
+ epoch is  110
+epoch is 111 train loss is: 0.11387895420193672 train correct is: 95.9878516624041
+epoch is 111 test loss is: 0.45038704427925846 test correct is: 85.36392405063292
+ epoch is  111
+epoch is 112 train loss is: 0.10858269853760368 train correct is: 96.19165601023018
+epoch is 112 test loss is: 0.46120395240244233 test correct is: 85.23536392405063
+ epoch is  112
+epoch is 113 train loss is: 0.11823640068245056 train correct is: 95.86397058823529
+epoch is 113 test loss is: 0.4628299610642127 test correct is: 85.11669303797468
+ epoch is  113
+epoch is 114 train loss is: 0.11231111472143847 train correct is: 96.18166560102301
+epoch is 114 test loss is: 0.4619477532709701 test correct is: 85.14636075949367
+ epoch is  114
+epoch is 115 train loss is: 0.12551887197148465 train correct is: 95.52229859335038
+epoch is 115 test loss is: 0.4799349549450452 test correct is: 84.77056962025317
+ epoch is  115
+epoch is 116 train loss is: 0.12032706287625196 train correct is: 95.78005115089515
+epoch is 116 test loss is: 0.5066499874655959 test correct is: 83.9992088607595
+ epoch is  116
+epoch is 117 train loss is: 0.11493071298236432 train correct is: 96.07376918158567
+epoch is 117 test loss is: 0.45194067334449745 test correct is: 85.26503164556962
+ epoch is  117
+epoch is 118 train loss is: 0.12228631501650566 train correct is: 95.66416240409207
+epoch is 118 test loss is: 0.4722870796730247 test correct is: 85.27492088607595
+ epoch is  118
+epoch is 119 train loss is: 0.12167844133418235 train correct is: 95.7900415601023
+epoch is 119 test loss is: 0.5277528257545414 test correct is: 83.05973101265823
+ epoch is  119
+epoch is 120 train loss is: 0.11898411851366768 train correct is: 95.80802429667519
+epoch is 120 test loss is: 0.5373767937380302 test correct is: 83.46518987341773
+ epoch is  120
+epoch is 121 train loss is: 0.10197427867890319 train correct is: 96.50135869565217
+epoch is 121 test loss is: 0.4478712021550046 test correct is: 85.64082278481013
+ epoch is  121
+epoch is 122 train loss is: 0.09837248217304954 train correct is: 96.49536445012788
+epoch is 122 test loss is: 0.4724323928969193 test correct is: 84.59256329113924
+ epoch is  122
+epoch is 123 train loss is: 0.0950997529975365 train correct is: 96.67319373401534
+epoch is 123 test loss is: 0.528583279799057 test correct is: 83.62341772151899
+ epoch is  123
+epoch is 124 train loss is: 0.10377490772958607 train correct is: 96.33152173913044
+epoch is 124 test loss is: 0.4749729370438977 test correct is: 85.09691455696202
+ epoch is  124
+epoch is 125 train loss is: 0.10826118947352137 train correct is: 96.21363491048594
+epoch is 125 test loss is: 0.46204063454289224 test correct is: 85.02768987341773
+ epoch is  125
+epoch is 126 train loss is: 0.10559487546248661 train correct is: 96.38347186700767
+epoch is 126 test loss is: 0.4406504606993138 test correct is: 85.67049050632912
+ epoch is  126
+epoch is 127 train loss is: 0.10708881343912591 train correct is: 96.18765984654732
+epoch is 127 test loss is: 0.48373846705012685 test correct is: 84.69145569620254
+ epoch is  127
+epoch is 128 train loss is: 0.10010889843296822 train correct is: 96.50535485933504
+epoch is 128 test loss is: 0.4956624807106166 test correct is: 84.43433544303798
+ epoch is  128
+epoch is 129 train loss is: 0.11382581733757882 train correct is: 95.95987851662404
+epoch is 129 test loss is: 0.4357044720385648 test correct is: 85.66060126582279
+ epoch is  129
+epoch is 130 train loss is: 0.11033625557275532 train correct is: 96.07576726342711
+epoch is 130 test loss is: 0.4064964883595328 test correct is: 86.65941455696202
+ epoch is  130
+epoch is 131 train loss is: 0.08900221323599215 train correct is: 96.91296355498721
+epoch is 131 test loss is: 0.3930095298852347 test correct is: 87.1242088607595
+ epoch is  131
+epoch is 132 train loss is: 0.07831887720281358 train correct is: 97.31058184143222
+epoch is 132 test loss is: 0.4243688483875764 test correct is: 86.86708860759494
+ epoch is  132
+epoch is 133 train loss is: 0.08257425089350061 train correct is: 97.05682544757033
+epoch is 133 test loss is: 0.44827689004095295 test correct is: 85.66060126582279
+ epoch is  133
+epoch is 134 train loss is: 0.08255460287165611 train correct is: 97.21867007672634
+epoch is 134 test loss is: 0.47048654723205147 test correct is: 85.69026898734177
+ epoch is  134
+epoch is 135 train loss is: 0.09913178035975112 train correct is: 96.61524936061382
+epoch is 135 test loss is: 0.4250649087413957 test correct is: 86.1748417721519
+ epoch is  135
+epoch is 136 train loss is: 0.09514200435403515 train correct is: 96.6891783887468
+epoch is 136 test loss is: 0.44376521783916256 test correct is: 85.71993670886076
+ epoch is  136
+epoch is 137 train loss is: 0.08997334430322927 train correct is: 96.93494245524296
+epoch is 137 test loss is: 0.48011752831030496 test correct is: 84.64200949367088
+ epoch is  137
+epoch is 138 train loss is: 0.08762178346133598 train correct is: 96.95292519181585
+epoch is 138 test loss is: 0.4446510912355366 test correct is: 85.69026898734177
+ epoch is  138
+epoch is 139 train loss is: 0.09909293784395508 train correct is: 96.52933184143222
+epoch is 139 test loss is: 0.521187886147748 test correct is: 83.79153481012658
+ epoch is  139
+epoch is 140 train loss is: 0.10067399539282103 train correct is: 96.43742007672634
+epoch is 140 test loss is: 0.4711481852904905 test correct is: 85.16613924050633
+ epoch is  140
+epoch is 141 train loss is: 0.07857920556231533 train correct is: 97.26662404092072
+epoch is 141 test loss is: 0.3959161499633065 test correct is: 87.21321202531645
+ epoch is  141
+epoch is 142 train loss is: 0.07061764046959483 train correct is: 97.55434782608695
+epoch is 142 test loss is: 0.4271756590968823 test correct is: 86.56052215189874
+ epoch is  142
+epoch is 143 train loss is: 0.07718564847917736 train correct is: 97.38850703324808
+epoch is 143 test loss is: 0.4279701595512938 test correct is: 86.13528481012658
+ epoch is  143
+epoch is 144 train loss is: 0.07181339581137347 train correct is: 97.52237851662404
+epoch is 144 test loss is: 0.4446198615846755 test correct is: 86.22428797468355
+ epoch is  144
+epoch is 145 train loss is: 0.07380155341990312 train correct is: 97.49640345268543
+epoch is 145 test loss is: 0.49353139899314463 test correct is: 84.70134493670886
+ epoch is  145
+epoch is 146 train loss is: 0.08188024972139112 train correct is: 97.15672953964194
+epoch is 146 test loss is: 0.4800838424435145 test correct is: 85.61115506329114
+ epoch is  146
+epoch is 147 train loss is: 0.08200914081652909 train correct is: 97.14074488491049
+epoch is 147 test loss is: 0.4665366945245975 test correct is: 85.59137658227849
+ epoch is  147
+epoch is 148 train loss is: 0.08089104895015507 train correct is: 97.20668158567774
+epoch is 148 test loss is: 0.44056762170188035 test correct is: 85.84849683544304
+ epoch is  148
+epoch is 149 train loss is: 0.08302527303566866 train correct is: 97.12675831202046
+epoch is 149 test loss is: 0.4896351186252093 test correct is: 85.17602848101266
+ epoch is  149
+epoch is 150 train loss is: 0.08890793732155466 train correct is: 96.91096547314578
+epoch is 150 test loss is: 0.4331908566004868 test correct is: 86.25395569620254
+ epoch is  150
+epoch is 151 train loss is: 0.06627588968990786 train correct is: 97.73617327365729
+epoch is 151 test loss is: 0.43161692852272265 test correct is: 86.42207278481013
+ epoch is  151
+epoch is 152 train loss is: 0.05686452546302239 train correct is: 98.09183184143222
+epoch is 152 test loss is: 0.4122475751828921 test correct is: 87.27254746835443
+ epoch is  152
+epoch is 153 train loss is: 0.05840960850038797 train correct is: 97.99392583120205
+epoch is 153 test loss is: 0.45377042754022756 test correct is: 85.69026898734177
+ epoch is  153
+epoch is 154 train loss is: 0.06420569725649054 train correct is: 97.77014066496163
+epoch is 154 test loss is: 0.47911906902548634 test correct is: 85.27492088607595
+ epoch is  154
+epoch is 155 train loss is: 0.06488054291442837 train correct is: 97.82608695652173
+epoch is 155 test loss is: 0.4306952399732191 test correct is: 86.38251582278481
+ epoch is  155
+epoch is 156 train loss is: 0.0740537208902752 train correct is: 97.4144820971867
+epoch is 156 test loss is: 0.45778300999840604 test correct is: 85.67049050632912
+ epoch is  156
+epoch is 157 train loss is: 0.07288465043887153 train correct is: 97.54435741687979
+epoch is 157 test loss is: 0.42465042011647286 test correct is: 86.46162974683544
+ epoch is  157
+epoch is 158 train loss is: 0.06981245719868204 train correct is: 97.54036125319693
+epoch is 158 test loss is: 0.4357178929391541 test correct is: 86.53085443037975
+ epoch is  158
+epoch is 159 train loss is: 0.07596212731974433 train correct is: 97.36253196930946
+epoch is 159 test loss is: 0.49382322366479076 test correct is: 84.92879746835443
+ epoch is  159
+epoch is 160 train loss is: 0.07506670704221025 train correct is: 97.49240728900256
+epoch is 160 test loss is: 0.4512399921688852 test correct is: 85.66060126582279
+ epoch is  160
+epoch is 161 train loss is: 0.05701286453739418 train correct is: 98.05786445012788
+epoch is 161 test loss is: 0.4179736973269831 test correct is: 87.21321202531645
+ epoch is  161
+epoch is 162 train loss is: 0.051300595875334025 train correct is: 98.21970907928389
+epoch is 162 test loss is: 0.4280647629329675 test correct is: 86.76819620253164
+ epoch is  162
+epoch is 163 train loss is: 0.04713817427882834 train correct is: 98.43550191815856
+epoch is 163 test loss is: 0.5008235306868071 test correct is: 84.81012658227849
+ epoch is  163
+epoch is 164 train loss is: 0.0505771417006412 train correct is: 98.25567455242967
+epoch is 164 test loss is: 0.4657474994848046 test correct is: 85.36392405063292
+ epoch is  164
+epoch is 165 train loss is: 0.06158489152274626 train correct is: 97.88403132992327
+epoch is 165 test loss is: 0.45230558901270734 test correct is: 85.7693829113924
+ epoch is  165
+epoch is 166 train loss is: 0.06225930993228465 train correct is: 97.7861253196931
+epoch is 166 test loss is: 0.4314295694797854 test correct is: 86.20450949367088
+ epoch is  166
+epoch is 167 train loss is: 0.07153530344557579 train correct is: 97.54036125319693
+epoch is 167 test loss is: 0.413127655805902 test correct is: 86.8176424050633
+ epoch is  167
+epoch is 168 train loss is: 0.05919632210117548 train correct is: 97.98193734015345
+epoch is 168 test loss is: 0.4196062423996156 test correct is: 86.63963607594937
+ epoch is  168
+epoch is 169 train loss is: 0.06116965751799629 train correct is: 97.94996803069054
+epoch is 169 test loss is: 0.43551183689998674 test correct is: 86.58030063291139
+ epoch is  169
+epoch is 170 train loss is: 0.06603907873315731 train correct is: 97.68222506393862
+epoch is 170 test loss is: 0.45958757155303714 test correct is: 85.71993670886076
+ epoch is  170
+epoch is 171 train loss is: 0.04918404013547294 train correct is: 98.37955562659846
+epoch is 171 test loss is: 0.38661398568862604 test correct is: 87.57911392405063
+ epoch is  171
+epoch is 172 train loss is: 0.04631098617425622 train correct is: 98.43550191815856
+epoch is 172 test loss is: 0.4158212173541513 test correct is: 86.84731012658227
+ epoch is  172
+epoch is 173 train loss is: 0.04440281372588804 train correct is: 98.48745204603581
+epoch is 173 test loss is: 0.4186526108297366 test correct is: 86.85719936708861
+ epoch is  173
+epoch is 174 train loss is: 0.04269378399952789 train correct is: 98.53540601023018
+epoch is 174 test loss is: 0.40993738957220993 test correct is: 87.47033227848101
+ epoch is  174
+epoch is 175 train loss is: 0.04664864157424178 train correct is: 98.46147698209718
+epoch is 175 test loss is: 0.4440005795817964 test correct is: 86.4814082278481
+ epoch is  175
+epoch is 176 train loss is: 0.05033501216908321 train correct is: 98.26566496163683
+epoch is 176 test loss is: 0.42899021322402775 test correct is: 86.22428797468355
+ epoch is  176
+epoch is 177 train loss is: 0.05747237603615998 train correct is: 98.02789322250639
+epoch is 177 test loss is: 0.4299017691607528 test correct is: 86.8176424050633
+ epoch is  177
+epoch is 178 train loss is: 0.05750237009666689 train correct is: 98.0718510230179
+epoch is 178 test loss is: 0.4586127684746362 test correct is: 85.7693829113924
+ epoch is  178
+epoch is 179 train loss is: 0.05760353509708286 train correct is: 97.97394501278772
+epoch is 179 test loss is: 0.42006129304630846 test correct is: 87.00553797468355
+ epoch is  179
+epoch is 180 train loss is: 0.05954558002140821 train correct is: 97.94197570332481
+epoch is 180 test loss is: 0.46632183281869827 test correct is: 85.79905063291139
+ epoch is  180
+epoch is 181 train loss is: 0.04641238423636007 train correct is: 98.46347506393862
+epoch is 181 test loss is: 0.43715347441597074 test correct is: 86.79786392405063
+ epoch is  181
+epoch is 182 train loss is: 0.04102486093311816 train correct is: 98.57936381074168
+epoch is 182 test loss is: 0.43807944419640527 test correct is: 86.80775316455696
+ epoch is  182
+epoch is 183 train loss is: 0.03691189323463823 train correct is: 98.77317774936061
+epoch is 183 test loss is: 0.4117202027759786 test correct is: 87.84612341772151
+ epoch is  183
+epoch is 184 train loss is: 0.04164787365452332 train correct is: 98.59734654731457
+epoch is 184 test loss is: 0.42142423058423817 test correct is: 87.0253164556962
+ epoch is  184
+epoch is 185 train loss is: 0.03385514961412686 train correct is: 98.909047314578
+epoch is 185 test loss is: 0.36486611024865623 test correct is: 88.77571202531645
+ epoch is  185
+epoch is 186 train loss is: 0.03706258086456686 train correct is: 98.7292199488491
+epoch is 186 test loss is: 0.43946995458836796 test correct is: 86.58030063291139
+ epoch is  186
+epoch is 187 train loss is: 0.039423441888330996 train correct is: 98.63131393861893
+epoch is 187 test loss is: 0.4341659681470711 test correct is: 87.05498417721519
+ epoch is  187
+epoch is 188 train loss is: 0.04739164421096673 train correct is: 98.41552109974424
+epoch is 188 test loss is: 0.4253092315519535 test correct is: 86.96598101265823
+ epoch is  188
+epoch is 189 train loss is: 0.051835104539666485 train correct is: 98.24768222506394
+epoch is 189 test loss is: 0.4607832039930398 test correct is: 85.99683544303798
+ epoch is  189
+epoch is 190 train loss is: 0.05061193933958173 train correct is: 98.28564578005115
+epoch is 190 test loss is: 0.5333404280245304 test correct is: 84.12776898734177
+ epoch is  190
+epoch is 191 train loss is: 0.03765865509181529 train correct is: 98.75719309462916
+epoch is 191 test loss is: 0.4734723478838613 test correct is: 86.42207278481013
+ epoch is  191
+epoch is 192 train loss is: 0.03274825243207881 train correct is: 98.89106457800511
+epoch is 192 test loss is: 0.39563006207441226 test correct is: 88.01424050632912
+ epoch is  192
+epoch is 193 train loss is: 0.02702137889028491 train correct is: 99.08487851662404
+epoch is 193 test loss is: 0.401596032696057 test correct is: 88.29113924050633
+ epoch is  193
+epoch is 194 train loss is: 0.02464995134498 train correct is: 99.22474424552429
+epoch is 194 test loss is: 0.42351362236504314 test correct is: 87.4307753164557
+ epoch is  194
+epoch is 195 train loss is: 0.027712333206649477 train correct is: 99.09886508951406
+epoch is 195 test loss is: 0.4305912494848046 test correct is: 87.25276898734177
+ epoch is  195
+epoch is 196 train loss is: 0.03341749069326178 train correct is: 98.95300511508951
+epoch is 196 test loss is: 0.4243935920958278 test correct is: 87.17365506329114
+ epoch is  196
+epoch is 197 train loss is: 0.03320004070735039 train correct is: 98.9210358056266
+epoch is 197 test loss is: 0.3921917031837415 test correct is: 88.26147151898734
+ epoch is  197
+epoch is 198 train loss is: 0.037619621928809854 train correct is: 98.78516624040921
+epoch is 198 test loss is: 0.45038042578233195 test correct is: 86.57041139240506
+ epoch is  198
+epoch is 199 train loss is: 0.05043824824154415 train correct is: 98.25567455242967
+epoch is 199 test loss is: 0.4908396321337057 test correct is: 85.65071202531645
+ epoch is  199
+epoch is 200 train loss is: 0.05068889392368362 train correct is: 98.32560741687979
+epoch is 200 test loss is: 0.46072267802267136 test correct is: 86.40229430379746
+
+Process finished with exit code 0
